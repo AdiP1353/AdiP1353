@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip1353&label=Profile%20views&color=0e75b6&style=flat" alt="adip1353" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adip1353" alt="adip1353" /></a> </p>
-
 - 🔭 I’m currently working on [a game based on JoJo's Bizarre Adventure](https://github.com/AdiP1353/JoJoGame)
 
 - 🌱 I’m currently learning **Python, Java and GDScript**
