@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip1353&label=Profile%20views&color=0e75b6&style=flat" alt="adip1353" /> </p>
 
-- 🔭 I’m currently working on [JoJo Game](https://github.com/AdiP1353/JoJoGame)
+- 🔭 I’m currently working on [Guitar Hero](https://github.com/AdiP1353/GuitarHero)
 
 - 🌱 I’m currently learning **Python, Java and GDScript**
 
